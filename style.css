@@ -43,6 +43,10 @@ main {
     
 }
 
+h6 {
+  display: none;
+}
+
 h2 {
   text-align: center;
 }
